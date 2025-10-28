@@ -58,7 +58,7 @@ Post-layout simulations were performed to compare the key performance metrics of
 #### Static Noise Margin (SNM) Analysis
 The "butterfly curve" was generated to analyze the read stability of the cell. The Static Noise Margin (SNM) is the side length of the largest square that can fit inside the "eyes" of the curve. It represents the cell's tolerance to noise before it accidentally flips its stored data.
 
-![SNM Butterfly Plot for 6T Cell](images/graph.jpg)
+(https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/SNM%20Butterfly%20Plot%20for%206T%20Cell.jpg)
 
 #### Physical Verification (Table 1)
 All cell layouts were successfully verified with zero DRC errors and zero LVS mismatches.

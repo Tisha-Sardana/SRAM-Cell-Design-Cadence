@@ -40,7 +40,7 @@ The 7T cell adds an extra transistor to the 6T design, which helps to isolate th
 
 | 7T Schematic (Fig. 3) | 7T Layout (Fig. 4) |
 | :--------------------: | :----------------: |
-| ![7T Schematic](images/7T_schematic.png) | ![7T Layout]([images/7T_layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/7T%20Layout.jpg)) |
+| ![7T Schematic]([images/7T_schematic.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/7T%20Schematic.jpg)) | ![7T Layout]([images/7T_layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/7T%20Layout.jpg)) |
 
 #### 3.3 8T SRAM Cell
 The 8T cell uses two additional transistors to create a dedicated read port (RWL and RBL), completely separating the read and write paths. This design eliminates the read-disturb issue, offering the highest stability and more reliable data access, though it consumes the largest area.

@@ -47,7 +47,7 @@ The 8T cell uses two additional transistors to create a dedicated read port (RWL
 
 | 8T Schematic (Fig. 5) | 8T Layout (Fig. 6) |
 | :--------------------: | :----------------: |
-| ![8T Schematic](images/8T_schematic.png) | ![8T Layout](images/8T_layout.png) |
+| ![8T Schematic](images/8T Schematic.png) | ![8T Layout](images/8T Layout.png) |
 
 ---
 

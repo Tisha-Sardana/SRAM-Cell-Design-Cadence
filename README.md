@@ -33,7 +33,7 @@ The 6T cell consists of two cross-coupled inverters and two access transistors. 
 
 | 6T Schematic (Fig. 1) | 6T Layout (Fig. 2) |
 | :--------------------: | :----------------: |
-| ![6T Schematic]([images/6T_schematic.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/6T%20Schematic.jpg)) | ![6T Layout][(images/6T_layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/6T%20Layout.jpg)) |
+| (https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/6T%20Schematic.jpg) | ![6T Layout][(images/6T_layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/6T%20Layout.jpg)) |
 
 #### 3.2 7T SRAM Cell
 The 7T cell adds an extra transistor to the 6T design, which helps to isolate the read path from the storage nodes. This addition partially decouples the read and write operations, improving read stability and power efficiency.

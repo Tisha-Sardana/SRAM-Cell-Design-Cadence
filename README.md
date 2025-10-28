@@ -51,39 +51,6 @@ Design, layout, and analysis of 6T, 7T, and 8T SRAM cells in 180nm technology us
 
 ---
 
-### ## 4. Comparative Analysis
-
-Post-layout simulations were performed to compare the key performance metrics of each cell.
-
-#### Physical Verification Results (Table 1)
-All cell layouts were successfully verified with zero DRC errors and zero LVS mismatches.
-
-| Cell Type | DRC Errors | LVS Mismatches |
-| :--- | :---: | :---: |
-| 6T | 0 | 0 |
-| 7T | 0 | 0 |
-| 8T | 0 | 0 |
-[cite_start]*Source: [cite: 122]*
-
-#### Performance Comparison (Table 2)
-This table summarizes the trade-offs between the three designs.
-
-| Cell Type | No. of Transistors | Area (μm²) | Average Power (W) | Read/Write Isolation |
-| :--- | :---: | :---: | :---: | :---: |
-| **6T SRAM** | 6 | 426.63 | 1.19E-3 | Shared |
-| **7T SRAM** | 7 | 559.12 | 799.8E-6 | Partial |
-| **8T SRAM** | 8 | 747.58 | 1.076E-6 | Full |
-[cite_start]*Source: [cite: 165]*
-
----
-
-### ## 5. Conclusion
-
-[cite_start]This project successfully demonstrated the design and verification of 6T, 7T, and 8T SRAM cells[cite: 125]. [cite_start]The analysis clearly shows the trade-offs between cell area, power, and stability[cite: 129].
-
-* [cite_start]The **6T cell** is the most area-efficient, making it ideal for high-density applications[cite: 127].
-* [cite_start]The **7T cell** offers a good balance of improved stability and power efficiency with a moderate area increase[cite: 128].
-* [cite_start]The **8T cell** provides the highest read stability by using a separate read port, making it the best choice for high-performance or low-voltage applications where data integrity is critical[cite: 128].
 ### ## 4. Analysis & Results
 
 Post-layout simulations were performed to compare the key performance metrics of each cell.
@@ -112,3 +79,12 @@ This table summarizes the key trade-offs between the three designs. The average 
 | **8T SRAM** | 8 | 747.58 | **1.08** | [cite_start]Full [cite: 165] |
 
 [cite_start]*(Note: Area and power values are from post-layout simulation[cite: 165].)*
+
+### ## 5. Conclusion
+
+[cite_start]This project successfully demonstrated the design and verification of 6T, 7T, and 8T SRAM cells[cite: 125]. [cite_start]The analysis clearly shows the trade-offs between cell area, power, and stability[cite: 129].
+
+* [cite_start]The **6T cell** is the most area-efficient, making it ideal for high-density applications[cite: 127].
+* [cite_start]The **7T cell** offers a good balance of improved stability and power efficiency with a moderate area increase[cite: 128].
+* [cite_start]The **8T cell** provides the highest read stability by using a separate read port, making it the best choice for high-performance or low-voltage applications where data integrity is critical[cite: 128].
+

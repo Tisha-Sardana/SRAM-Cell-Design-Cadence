@@ -47,7 +47,7 @@ The 8T cell uses two additional transistors to create a dedicated read port (RWL
 
 | 8T Schematic (Fig. 5) | 8T Layout (Fig. 6) |
 | :--------------------: | :----------------: |
-| ![8T Schematic](images/8T Schematic.png) | ![8T Layout]([images/8T Layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/8T%20Layout.jpg)) |
+| ![8T Schematic]([images/8T Schematic.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/8T%20Schematic.jpg)) | ![8T Layout]([images/8T Layout.png](https://github.com/Tisha-Sardana/SRAM-Cell-Design-Cadence/blob/main/8T%20Layout.jpg)) |
 
 ---
 
